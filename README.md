@@ -7,7 +7,7 @@ const MaxiJ16 = {
   tools: [React, Redux, Node ],
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiJ16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiJ16&layout=compact&theme=dark)]
 
 
 ![MaxiJ16's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiJ16&show_icons=true&theme=dark)
