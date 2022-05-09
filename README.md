@@ -1,7 +1,7 @@
 <h1 align="left">Hola👋 Soy Maxi</h1>
 <h2 align="left">Sobre Mi </h2>
 <p align="left">
-Soy desarrollador web full stack de Mendoza, Argentina. Actualmente estoy estudiando en ![APX](https://apx.school)
+Soy un desarrollador web full stack de Mendoza, Argentina. Estudiante de APX SCHOOL: <a href="https://apx.school"></a>
 </p>
 
 - 🌱 Estoy aprendiendo **React**
