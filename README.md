@@ -1,5 +1,9 @@
 <h1 align="left">Hola👋 Soy Maxi</h1>
-<h2 align="left">Programador Web Full Stack </h2>
+<h2 align="left">Sobre Mi </h2>
+<p align="left">
+Soy desarrollador web full stack de Mendoza, Argentina.
+Estudiando en 
+</p>
 
 - 🌱 Estoy aprendiendo **React**
 
