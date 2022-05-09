@@ -1,15 +1,5 @@
-### Hola, Soy Maxi👋💻
-
-```js
-const MaxiJ16 = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node ],
-}
-```
-
-<h1 align="center">Hola 👋, soy Maxi</h1>
-<h3 align="center">Programador Web Full Stack</h3>
+<h1 align="left">Hola 👋, soy Maxi</h1>
+<h3 align="left">Programador Web Full Stack</h3>
 
 - 🌱 Estoy aprendiendo **React**
 
