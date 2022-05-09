@@ -6,7 +6,7 @@ Soy un desarrollador web full stack de Mendoza, Argentina. Estudiante de APX SCH
 
 - 🌱 Estoy aprendiendo **React**
 
-- 👨‍💻 All of my projects are available at [https://maxij16.github.io/desafio-m4/](https://maxij16.github.io/desafio-m4/)
+- 👨‍💻 All of my projects are available at [Mi Portfolio:](https://maxij16.github.io/desafio-m4/)
 
 - 💬 Ask me about **typeScript, node.js**
 
