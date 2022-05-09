@@ -1,5 +1,5 @@
 <h1 align="left">Hola👋 Soy Maxi</h1>
-<h3 align="left">Programador Web Full Stack </h3>
+<h2 align="left">Programador Web Full Stack </h2>
 
 - 🌱 Estoy aprendiendo **React**
 
