@@ -1,12 +1,12 @@
 <h1 align="left">Hola👋 Soy Maxi</h1>
 <h2 align="left">Sobre Mi </h2>
 <p align="left">
-Soy un desarrollador web full stack de Mendoza, Argentina. Estudiante de APX SCHOOL: <a href="https://apx.school"></a>
+Soy un desarrollador web full stack de Mendoza, Argentina. Estudiante de  [Mi Portfolio](https://maxij16.github.io/desafio-m4/)
 </p>
 
 - 🌱 Estoy aprendiendo **React**
 
-- 👨‍💻 All of my projects are available at [Mi Portfolio:](https://maxij16.github.io/desafio-m4/)
+- 👨‍💻 All of my projects are available at [Mi Portfolio](https://maxij16.github.io/desafio-m4/)
 
 - 💬 Ask me about **typeScript, node.js**
 
