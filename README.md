@@ -58,8 +58,7 @@
 
 <h3 align="left">Contacto</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" height="30" width="40" /></a>
- 
- <a href="mailto:maxijofre.c@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="mailto:maxijofre.c@gmail.com" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" height="30" width="40" /> </a>
+<a href="mailto:maxijofre.c@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="mailto:maxijofre.c@gmail.com" height="25" width="35" /> </a>
 </p>
 
