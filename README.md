@@ -56,18 +56,9 @@
 ![MaxiJ16's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiJ16&show_icons=true&theme=dark)
 
 
-
-
-- 🌱 Estoy aprendiendo **React**
-
-
-
-- 💬 Ask me about **typeScript, node.js**
-
-- 📫 How to reach me **maxijofre.c@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" height="30" width="40" /></a>
+<a href="maxijofre.c@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="https://www.linkedin.com/in/maximiliano-jofr%c3%a9-0b7a781a8/" height="30" width="40" /></a>
 </p>
 
