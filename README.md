@@ -5,7 +5,7 @@
 
 - 📖 Estudiante de [APX SCHOOL](https://apx.school).
 
-- 👨‍💻 Te invito a ver mis proyectos en mi [PORTFOLIO](https://maxij16.github.io/desafio-m4/).
+- 👨‍💻 Te invito a ver mis proyectos en mi [PORTFOLIO](https://maxij16.github.io/my-portfolio/).
 
 <h2 align="left">Tecnologías</h2>
 
