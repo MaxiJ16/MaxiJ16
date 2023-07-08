@@ -5,7 +5,7 @@
 
 - 📖 Estudiante de [APX SCHOOL](https://apx.school).
 
-- 👨‍💻 [PORTFOLIO] en proceso de Creación.
+- 👨‍💻  Actualmente lo estoy creando [PORTFOLIO] https://portfolio-maxij16.vercel.app/.
 
 <h2 align="left">Tecnologías</h2>
 
