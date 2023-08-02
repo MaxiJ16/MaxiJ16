@@ -1,11 +1,11 @@
 <h1 align="left">Hola👋 Soy Maxi</h1>
 <h2 align="left">Desarrollador Web Full Stack </h2>
 
-- 🍇 Proveniente de Mendoza, Argentina.
+- 🍇 Mendoza, Argentina.
 
 - 📖 Estudiante de [APX SCHOOL](https://apx.school).
 
-- 👨‍💻  Actualmente lo estoy creando [PORTFOLIO](https://portfolio-maxij16.vercel.app/).
+- 👨‍💻 [PORTFOLIO](https://portfolio-maxij16.vercel.app/).
 
 <h2 align="left">Tecnologías</h2>
 
