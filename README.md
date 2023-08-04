@@ -5,7 +5,7 @@
 
 - 📖 Estudiante de [APX SCHOOL](https://apx.school).
 
-- 👨‍💻 [PORTFOLIO](https://portfolio-maxij16.vercel.app/).
+- 👨‍💻 [PORTFOLIO](https://maxijofre.vercel.app/).
 
 <h2 align="left">Tecnologías</h2>
 
